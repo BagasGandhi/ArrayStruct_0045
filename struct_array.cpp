@@ -5,5 +5,8 @@ struct Mahasiswa
 {
     string nama;
     string nim;
-    string alamat
+    string alamat;
 };
+
+int main()
+{}
