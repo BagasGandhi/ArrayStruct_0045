@@ -13,4 +13,9 @@ int main()
     cout << "Nilai array ke 3 = " << nilai[2] << endl;
     nilai[2] = 100;
     cout << "Nilai array ke 3 = " << nilai[2] << endl;
+
+    for (int i = 0; i < 4; i++)
+    {
+        
+    }
 }
