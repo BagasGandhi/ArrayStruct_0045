@@ -16,6 +16,7 @@ int main()
 
     for (int i = 0; i < 4; i++)
     {
-        
+        cout << "Masukan nama ke " << i + 1 << " = ";
+        cin >> nama[i];
     }
 }
