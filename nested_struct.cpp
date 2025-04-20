@@ -29,4 +29,8 @@ int main()
         cout << "Masukan provinsi = ";
         cin >> mhs[i].alamat.provinsi;
     }
+
+    cout << endl;
+    cout << "Menampilkan Data" << endl;
+    cout << endl;
 }
