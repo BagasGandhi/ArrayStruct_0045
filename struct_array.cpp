@@ -21,4 +21,8 @@ int main()
         cout << "Masukan alamat = ";
         cin >> mhs[i].alamat;
     }
+
+    cout << endl;
+    cout << "Menampilkan Data" << endl;
+    cout << endl;
 }
