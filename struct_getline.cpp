@@ -31,3 +31,7 @@ int main()
         cin >> mhs[i].alamat.provinsi;
         cin.ignore(); 
 }
+
+cout << endl;
+cout << "Menampilkan Data" << endl;
+cout << endl;
