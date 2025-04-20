@@ -17,4 +17,6 @@ struct Mahasiswa
 int main()
 {
     Mahasiswa mhs[2];
+    for (int i = 0; i < 2; i++)
+    {}
 }
