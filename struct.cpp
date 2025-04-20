@@ -7,3 +7,6 @@ struct Mahasiswa
     string nim;
     string alamat;
 };
+
+int main()
+{}
