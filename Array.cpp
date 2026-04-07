@@ -28,4 +28,13 @@ int main(){
     cout << "Data Index ke - 4 : " ;
     cin >> datamu[4];
 
-}
+    //Tampilankan array datamu
+    cout << "Data ke - 1 : " << datamu[0] << endl;
+    cout << "Data ke - 2 : " << datamu[1] << endl;
+    cout << "Data ke - 3 : " << datamu[2] << endl;
+    cout << "Data ke - 4 : " << datamu[3] << endl;
+    cout << "Data ke - 5 : " << datamu[4] << endl;
+
+    cout << endl;
+
+
