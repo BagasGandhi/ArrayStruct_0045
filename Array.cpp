@@ -7,4 +7,6 @@ int main(){
     //Deklarasi Array tanpa inisialisasi
     int datamu[5];
     int x;
+    //cara membaca Array dataku
+    cout << "Data ke - 3 : " << dataku[2]<<endl;
 }
