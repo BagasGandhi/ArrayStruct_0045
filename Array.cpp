@@ -9,4 +9,8 @@ int main(){
     int x;
     //cara membaca Array dataku
     cout << "Data ke - 3 : " << dataku[2]<<endl;
+
+    //Operasi Matematika
+    x = dataku[2]*3;
+    
 }
